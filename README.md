@@ -9,6 +9,7 @@ FindMine creates visual content for many amazing companies such as Adidas, Cole 
 For my capstone project, I will help FindMine automates and scales content creation for online retailers. 
 In this project, I build different classifiers to identify photos of isolated fashion products vs. human models wearing the fashion products. In other words, the aim is to detect whether a human model is present in product depiction photos. This would not be to determine what products are being depicted. 
 
+## Dataset
 The dataset is retail catalog images from multiple photographers/sources depicting fashion, home goods, and beauty products in an XML/JSON/CSV file
 format. When human models are present in these types of images, they are partially cropped silhouettes(waist-up, waist-down, etc.) and shot front/back/side profile to emphasize the product being featured. 
 
