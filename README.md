@@ -3,6 +3,7 @@
 
 Online shopping became so popular recently. we as customers look to brands for guidance. we may spend 3x more when given this guidance in a complete
 outfit, furniture set, or beauty look.
+
 FindMine creates visual content for many amazing companies such as Adidas, Cole Haan, and so on. right now, they create all these contents manually.  But manual content creation can only cover a small portion of the catalog, leaving revenue on the table.
 
 For my capstone project, I will help FindMine automates and scales content creation for online retailers. 
